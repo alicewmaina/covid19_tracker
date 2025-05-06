@@ -21,15 +21,16 @@ A Python-based project to analyze and visualize global COVID-19 data, providing 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid19-global-data-tracker.git
+   git clone https://github.com/alicewmaina/covid19_tracker.git
 
 
 
 2. Navigate to the project directory:
-```bash
- cd covid19-global-data-tracker
+  ```bash
+   cd covid19-global-data-tracker
 
+   
 3. install the required liabraries:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
